@@ -2,6 +2,13 @@
 
 ```python
 import hinc
+from __future__ import print_function, division
+
+%matplotlib inline
+import numpy as np
+import brfss
+import thinkstats2
+import thinkplot
 ```
 
 ```python
