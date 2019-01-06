@@ -29,7 +29,7 @@ def CohenEffectSize(group1, group2):
      return d
  ```
 
- calculation of Cohen Effect Size for two groups (first babies, other babies) on their birth weight.
+ Calculation of Cohen Effect Size for two groups (first babies, other babies) on their birth weight.
 
  ```python
  preg = nsfg.ReadFemPreg()
