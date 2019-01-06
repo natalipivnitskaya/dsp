@@ -3,6 +3,8 @@
 Importing liabraries
 ```python
 import numpy as np
+import thinkstats2
+import thinkplot
 ```
 Generating 1000 random numbers from random.random
 
